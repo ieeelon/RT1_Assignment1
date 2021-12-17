@@ -6,6 +6,7 @@ Some of the arenas and the exercises have been modified for the Research Track I
 
 Logic behind the solutino (flow chart)
 --------------------------------------
+NOTICE: In the flowchart - "yes" is always rightmost arrow, while "no" is always leftmost arrow with respect to the decision blocks
 ![Screenshot](RT1A1flowchart.svg)
 
 Installing and running
