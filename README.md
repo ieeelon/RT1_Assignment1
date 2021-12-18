@@ -4,7 +4,7 @@ Python Robotics Simulator
 This is a simple, portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
 Some of the arenas and the exercises have been modified for the Research Track I course
 
-Logic behind the solutino (flow chart)
+Logic behind the solution (flow chart)
 --------------------------------------
 NOTICE: In the flowchart - "yes" is always rightmost arrow, while "no" is always leftmost arrow with respect to the decision blocks
 ![Screenshot](RT1A1flowchart.svg)
